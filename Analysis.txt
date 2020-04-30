@@ -1,0 +1,7 @@
+BIG O COMPLEXITIES
+
+task0 = O(1)
+task1 = O(n)
+task2 = O(n)
+task3 = O(n)
+task4 = O(n)
